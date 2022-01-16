@@ -1,4 +1,4 @@
-import tk
+import tkinter as tk
 root = tk.Tk()
 root.geometry('1300X768')
 
